@@ -1,1 +1,1 @@
-# LaTeX_Template
+# LaTeXレポート用テンプレート
